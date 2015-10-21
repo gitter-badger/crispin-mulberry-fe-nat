@@ -1,5 +1,7 @@
 # Crispin & Mulberry: Nerdery Front-end (NAT)
 
+[![Join the chat at https://gitter.im/MadLittleMods/crispin-mulberry-fe-nat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MadLittleMods/crispin-mulberry-fe-nat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The NAT(Nerd Assessment Test) is a code challenge and technical component of the Nerdery candidate interview process. The task is to create a full site from the given Photoshop PSD.
 
 The [instructions given are available here](https://github.com/MadLittleMods/crispin-mulberry-fe-nat/blob/master/src/%23project/instructions.md).
